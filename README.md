@@ -1,7 +1,20 @@
 # PhysioApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Check out markdown for text styling
+
+### Not sure what 3 hashtags are doing
+
+- Ruby code embedded
+- right in the readme file
+
+```ruby
+def my_method
+  puts "most tremendous method of all"
+end
+```
+```javascript
+alert('Hi')
+```
 
 Things you may want to cover:
 
